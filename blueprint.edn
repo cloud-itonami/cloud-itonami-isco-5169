@@ -1,10 +1,1 @@
-{:itonami.blueprint/id "cloud-itonami-isco-5169"
- :itonami.blueprint/name "Independent Personal Services Practice"
- :itonami.blueprint/isco-08 "5169"
- :itonami.blueprint/domain :services/personal-services
- :itonami.blueprint/license "AGPL-3.0-or-later"
- :itonami.blueprint/social-impact [:local-jobs :customer-access :small-business-viability]
- :itonami.blueprint/governor :personal-services-governor
- :itonami.blueprint/robotics true
- :itonami.blueprint/required-technologies [:robotics :forms :identity :audit-ledger :bpmn]
- :itonami.blueprint/status :public-oss}
+[{:itonami.blueprint/social-impact [:local-jobs :customer-access :small-business-viability], :itonami.blueprint/domain :services/personal-services, :itonami.blueprint/required-technologies [:robotics :forms :identity :audit-ledger :bpmn], :itonami.blueprint/isco-08 "5169", :itonami.blueprint/name "Independent Personal Services Practice", :itonami.blueprint/governor :personal-services-governor, :itonami.blueprint/robotics true, :db/id -1, :itonami.blueprint/status :public-oss, :itonami.blueprint/id "cloud-itonami-isco-5169", :itonami.blueprint/license "AGPL-3.0-or-later"}]
